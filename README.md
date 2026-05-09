@@ -7,6 +7,7 @@ This is my personal portfolio website to showcase my projects and skills.
 🚀 Live Demo
 
 https://deepak-kumar1105.github.io/My-Portfolio/
+
 🛠️ Tech Used
 
 - HTML
